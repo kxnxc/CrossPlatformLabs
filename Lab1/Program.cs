@@ -1,7 +1,7 @@
 ﻿using Lab1.FilesUtil;
 using Lab1.Util;
 
-public class Program()
+public class Program
 {
     private static readonly string PathInput = Path.Combine(Path.GetFullPath("Lab1"), "Files", "INPUT.txt");
     private static readonly string PathOutput = Path.Combine(Path.GetFullPath("Lab1"), "Files", "OUTPUT.txt");
